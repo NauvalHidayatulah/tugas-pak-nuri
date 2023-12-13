@@ -1,5 +1,9 @@
-NPM: 2021804107 Nama: 
+NPM: 2021804107 
 
-Nauval Hidayatulah
-Kelas: SI 5B SHIFT Jurusan: SISTEM INFORMASI
+Nama: Nauval Hidayatulah
+
+Kelas: SI 5B SHIFT 
+
+Jurusan: SISTEM INFORMASI
+
 UNIPI
